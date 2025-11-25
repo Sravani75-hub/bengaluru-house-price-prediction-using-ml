@@ -1,15 +1,16 @@
 import streamlit as st
 import requests
 import json
-import os
 
 st.title("🏠 Bengaluru House Price Prediction")
 
 # -------------------------------------------------------
 # LOAD LOCATION LIST FROM location_stats.json
 # -------------------------------------------------------
-MODEL_DIR = "../models"
-loc_stats_path = os.path.join(MODEL_DIR, "location_stats.json")
+loc_stats_path = "../models/location_stats.json"
+loc_pps_path = "../models/location_pps.json"
+columns_path = "../models/model_columns.json"
+metadata_path = "../models/model_metadata.json"
 
 with open(loc_stats_path, "r") as f:
     location_stats = json.load(f)
@@ -39,17 +40,15 @@ if st.button("Predict"):
         "total_sqft": sqft,
         "bath": bath,
         "bhk": bhk,
-        "location": selected_loc_internal  # send internal key; API cleans anyway
+        "location": selected_loc_internal
     }
 
     try:
         res = requests.post(
-    "https://bengaluru-house-price-prediction-ml.onrender.com/predict",
-    json=data,
-    timeout=30
-)
-
-
+            "https://bengaluru-house-price-prediction-ml.onrender.com/predict",
+            json=payload,
+            timeout=30
+        )
 
         if res.status_code == 200:
             data = res.json()
