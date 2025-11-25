@@ -7,10 +7,11 @@ st.title("🏠 Bengaluru House Price Prediction")
 # -------------------------------------------------------
 # LOAD LOCATION LIST FROM location_stats.json
 # -------------------------------------------------------
-loc_stats_path = "../models/location_stats.json"
-loc_pps_path = "../models/location_pps.json"
-columns_path = "../models/model_columns.json"
-metadata_path = "../models/model_metadata.json"
+loc_stats_path = "models/location_stats.json"
+loc_pps_path = "models/location_pps.json"
+columns_path = "models/model_columns.json"
+metadata_path = "models/model_metadata.json"
+
 
 with open(loc_stats_path, "r") as f:
     location_stats = json.load(f)
