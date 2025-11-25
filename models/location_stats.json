@@ -1,0 +1,1557 @@
+{
+    "electronic city phase ii": {
+        "mean_price": 47.40687022900764,
+        "count": 131,
+        "category": 2
+    },
+    "chikka tirupathi": {
+        "mean_price": 115.01588235294118,
+        "count": 17,
+        "category": 2
+    },
+    "uttarahalli": {
+        "mean_price": 61.25252688172043,
+        "count": 186,
+        "category": 2
+    },
+    "lingadheeranahalli": {
+        "mean_price": 115.34826086956522,
+        "count": 23,
+        "category": 2
+    },
+    "kothanur": {
+        "mean_price": 95.63030303030304,
+        "count": 66,
+        "category": 2
+    },
+    "whitefield": {
+        "mean_price": 127.9294382022472,
+        "count": 534,
+        "category": 3
+    },
+    "old airport road": {
+        "mean_price": 184.080303030303,
+        "count": 33,
+        "category": 2
+    },
+    "rajaji nagar": {
+        "mean_price": 326.77981132075473,
+        "count": 106,
+        "category": 2
+    },
+    "marathahalli": {
+        "mean_price": 102.21371428571429,
+        "count": 175,
+        "category": 2
+    },
+    "other": {
+        "mean_price": 137.9050680122861,
+        "count": 2279,
+        "category": 1
+    },
+    "7th phase jp nagar": {
+        "mean_price": 100.52295302013422,
+        "count": 149,
+        "category": 2
+    },
+    "gottigere": {
+        "mean_price": 61.017291666666665,
+        "count": 48,
+        "category": 2
+    },
+    "sarjapur": {
+        "mean_price": 94.57734567901235,
+        "count": 81,
+        "category": 2
+    },
+    "mysore road": {
+        "mean_price": 68.5275,
+        "count": 48,
+        "category": 2
+    },
+    "bisuvanahalli": {
+        "mean_price": 41.72509803921569,
+        "count": 51,
+        "category": 2
+    },
+    "raja rajeshwari nagar": {
+        "mean_price": 64.7140350877193,
+        "count": 171,
+        "category": 2
+    },
+    "manayata tech park": {
+        "mean_price": 81.875,
+        "count": 8,
+        "category": 2
+    },
+    "kengeri": {
+        "mean_price": 62.03791666666666,
+        "count": 72,
+        "category": 2
+    },
+    "binny pete": {
+        "mean_price": 147.5055,
+        "count": 20,
+        "category": 2
+    },
+    "thanisandra": {
+        "mean_price": 82.15315677966102,
+        "count": 236,
+        "category": 2
+    },
+    "bellandur": {
+        "mean_price": 91.19333333333333,
+        "count": 96,
+        "category": 2
+    },
+    "electronic city": {
+        "mean_price": 54.763684210526314,
+        "count": 304,
+        "category": 2
+    },
+    "ramagondanahalli": {
+        "mean_price": 131.6758,
+        "count": 50,
+        "category": 2
+    },
+    "yelahanka": {
+        "mean_price": 86.12040476190477,
+        "count": 210,
+        "category": 2
+    },
+    "hebbal": {
+        "mean_price": 160.44170454545454,
+        "count": 176,
+        "category": 2
+    },
+    "kasturi nagar": {
+        "mean_price": 127.96875,
+        "count": 16,
+        "category": 2
+    },
+    "kanakpura road": {
+        "mean_price": 71.32484962406015,
+        "count": 266,
+        "category": 2
+    },
+    "electronics city phase 1": {
+        "mean_price": 55.03689655172414,
+        "count": 87,
+        "category": 2
+    },
+    "kundalahalli": {
+        "mean_price": 132.65765957446808,
+        "count": 47,
+        "category": 2
+    },
+    "chikkalasandra": {
+        "mean_price": 71.17033333333333,
+        "count": 30,
+        "category": 2
+    },
+    "murugeshpalya": {
+        "mean_price": 102.57142857142857,
+        "count": 14,
+        "category": 2
+    },
+    "sarjapur road": {
+        "mean_price": 118.74359693877551,
+        "count": 392,
+        "category": 2
+    },
+    "ganga nagar": {
+        "mean_price": 66.3,
+        "count": 10,
+        "category": 2
+    },
+    "hsr layout": {
+        "mean_price": 100.16981132075472,
+        "count": 53,
+        "category": 3
+    },
+    "doddathoguru": {
+        "mean_price": 43.413,
+        "count": 30,
+        "category": 2
+    },
+    "kr puram": {
+        "mean_price": 84.62545454545455,
+        "count": 88,
+        "category": 2
+    },
+    "bhoganhalli": {
+        "mean_price": 98.2465306122449,
+        "count": 49,
+        "category": 2
+    },
+    "lakshminarayana pura": {
+        "mean_price": 97.13888888888889,
+        "count": 36,
+        "category": 2
+    },
+    "begur road": {
+        "mean_price": 58.17321428571429,
+        "count": 84,
+        "category": 2
+    },
+    "varthur": {
+        "mean_price": 68.89442857142856,
+        "count": 70,
+        "category": 2
+    },
+    "bommanahalli": {
+        "mean_price": 60.29617647058824,
+        "count": 34,
+        "category": 2
+    },
+    "gunjur": {
+        "mean_price": 99.21545454545453,
+        "count": 22,
+        "category": 2
+    },
+    "devarachikkanahalli": {
+        "mean_price": 61.470588235294116,
+        "count": 17,
+        "category": 2
+    },
+    "hegde nagar": {
+        "mean_price": 137.9561224489796,
+        "count": 49,
+        "category": 2
+    },
+    "haralur road": {
+        "mean_price": 82.16035460992909,
+        "count": 141,
+        "category": 2
+    },
+    "hennur road": {
+        "mean_price": 102.76520000000001,
+        "count": 150,
+        "category": 2
+    },
+    "kothannur": {
+        "mean_price": 58.92884615384616,
+        "count": 26,
+        "category": 2
+    },
+    "kalena agrahara": {
+        "mean_price": 73.48484848484848,
+        "count": 33,
+        "category": 2
+    },
+    "kaval byrasandra": {
+        "mean_price": 61.59090909090909,
+        "count": 22,
+        "category": 2
+    },
+    "isro layout": {
+        "mean_price": 128.46153846153845,
+        "count": 13,
+        "category": 2
+    },
+    "garudachar palya": {
+        "mean_price": 83.37277777777778,
+        "count": 18,
+        "category": 2
+    },
+    "epip zone": {
+        "mean_price": 134.86260869565217,
+        "count": 23,
+        "category": 2
+    },
+    "dasanapura": {
+        "mean_price": 49.903125,
+        "count": 16,
+        "category": 2
+    },
+    "kasavanhalli": {
+        "mean_price": 112.85518987341771,
+        "count": 79,
+        "category": 2
+    },
+    "sanjay nagar": {
+        "mean_price": 126.35999999999999,
+        "count": 20,
+        "category": 2
+    },
+    "domlur": {
+        "mean_price": 163.77272727272728,
+        "count": 22,
+        "category": 2
+    },
+    "sarjapura attibele road": {
+        "mean_price": 78.74,
+        "count": 17,
+        "category": 2
+    },
+    "yeshwanthpur": {
+        "mean_price": 98.68641176470588,
+        "count": 85,
+        "category": 2
+    },
+    "chandapura": {
+        "mean_price": 33.72627551020408,
+        "count": 98,
+        "category": 2
+    },
+    "peenya": {
+        "mean_price": 76.21111111111111,
+        "count": 9,
+        "category": 2
+    },
+    "nagarbhavi": {
+        "mean_price": 121.62222222222222,
+        "count": 63,
+        "category": 2
+    },
+    "jalahalli west": {
+        "mean_price": 45.46,
+        "count": 8,
+        "category": 2
+    },
+    "devanahalli": {
+        "mean_price": 121.236375,
+        "count": 40,
+        "category": 2
+    },
+    "ramamurthy nagar": {
+        "mean_price": 88.40205479452055,
+        "count": 73,
+        "category": 2
+    },
+    "malleshwaram": {
+        "mean_price": 359.4087719298245,
+        "count": 57,
+        "category": 2
+    },
+    "akshaya nagar": {
+        "mean_price": 85.34516129032258,
+        "count": 62,
+        "category": 2
+    },
+    "shampura": {
+        "mean_price": 72.92307692307692,
+        "count": 13,
+        "category": 2
+    },
+    "kadugodi": {
+        "mean_price": 96.41357142857143,
+        "count": 42,
+        "category": 2
+    },
+    "lb shastri nagar": {
+        "mean_price": 75.72727272727273,
+        "count": 11,
+        "category": 2
+    },
+    "vajarahalli": {
+        "mean_price": 79.875,
+        "count": 8,
+        "category": 2
+    },
+    "hormavu": {
+        "mean_price": 71.1152027027027,
+        "count": 74,
+        "category": 2
+    },
+    "vishwapriya layout": {
+        "mean_price": 66.66666666666667,
+        "count": 12,
+        "category": 2
+    },
+    "kudlu gate": {
+        "mean_price": 83.14631578947369,
+        "count": 38,
+        "category": 2
+    },
+    "8th phase jp nagar": {
+        "mean_price": 77.97535087719298,
+        "count": 57,
+        "category": 2
+    },
+    "bommasandra industrial area": {
+        "mean_price": 40.949615384615385,
+        "count": 26,
+        "category": 2
+    },
+    "chandra layout": {
+        "mean_price": 128.34444444444443,
+        "count": 9,
+        "category": 2
+    },
+    "anandapura": {
+        "mean_price": 57.38,
+        "count": 27,
+        "category": 2
+    },
+    "vishveshwarya layout": {
+        "mean_price": 128.15384615384616,
+        "count": 13,
+        "category": 2
+    },
+    "kengeri satellite town": {
+        "mean_price": 54.590875000000004,
+        "count": 40,
+        "category": 2
+    },
+    "basavanapura": {
+        "mean_price": 68.27125000000001,
+        "count": 8,
+        "category": 2
+    },
+    "kannamangala": {
+        "mean_price": 90.10944444444445,
+        "count": 18,
+        "category": 2
+    },
+    "hulimavu": {
+        "mean_price": 85.91884615384615,
+        "count": 52,
+        "category": 2
+    },
+    "mahalakshmi layout": {
+        "mean_price": 294.84615384615387,
+        "count": 13,
+        "category": 2
+    },
+    "hosa road": {
+        "mean_price": 68.55115942028985,
+        "count": 69,
+        "category": 2
+    },
+    "attibele": {
+        "mean_price": 46.43666666666667,
+        "count": 42,
+        "category": 2
+    },
+    "cv raman nagar": {
+        "mean_price": 79.5525581395349,
+        "count": 43,
+        "category": 2
+    },
+    "kumaraswami layout": {
+        "mean_price": 115.71666666666667,
+        "count": 30,
+        "category": 2
+    },
+    "nagavara": {
+        "mean_price": 109.01235294117647,
+        "count": 17,
+        "category": 2
+    },
+    "hebbal kempapura": {
+        "mean_price": 193.2941176470588,
+        "count": 34,
+        "category": 2
+    },
+    "vijayanagar": {
+        "mean_price": 119.15547619047618,
+        "count": 42,
+        "category": 2
+    },
+    "pattandur agrahara": {
+        "mean_price": 60.51363636363636,
+        "count": 11,
+        "category": 2
+    },
+    "ejipura": {
+        "mean_price": 111.55555555555556,
+        "count": 9,
+        "category": 2
+    },
+    "ms pallya": {
+        "mean_price": 129.75,
+        "count": 8,
+        "category": 2
+    },
+    "nagasandra": {
+        "mean_price": 157.83333333333334,
+        "count": 12,
+        "category": 2
+    },
+    "kogilu": {
+        "mean_price": 92.46719999999999,
+        "count": 25,
+        "category": 2
+    },
+    "panathur": {
+        "mean_price": 74.06666666666666,
+        "count": 51,
+        "category": 2
+    },
+    "padmanabhanagar": {
+        "mean_price": 140.63142857142856,
+        "count": 28,
+        "category": 2
+    },
+    "1st block jayanagar": {
+        "mean_price": 207.5,
+        "count": 14,
+        "category": 2
+    },
+    "kammasandra": {
+        "mean_price": 38.054482758620686,
+        "count": 29,
+        "category": 2
+    },
+    "dasarahalli": {
+        "mean_price": 83.01235294117647,
+        "count": 17,
+        "category": 2
+    },
+    "magadi road": {
+        "mean_price": 77.6266,
+        "count": 25,
+        "category": 2
+    },
+    "koramangala": {
+        "mean_price": 203.95902777777778,
+        "count": 72,
+        "category": 3
+    },
+    "dommasandra": {
+        "mean_price": 41.02846153846154,
+        "count": 13,
+        "category": 2
+    },
+    "budigere": {
+        "mean_price": 69.90379629629629,
+        "count": 54,
+        "category": 2
+    },
+    "dodda nekkundi extension": {
+        "mean_price": 87.9375,
+        "count": 8,
+        "category": 2
+    },
+    "kalyan nagar": {
+        "mean_price": 120.8157894736842,
+        "count": 19,
+        "category": 2
+    },
+    "ombr layout": {
+        "mean_price": 132.39473684210526,
+        "count": 19,
+        "category": 2
+    },
+    "anand nagar": {
+        "mean_price": 167.5,
+        "count": 8,
+        "category": 2
+    },
+    "horamavu agara": {
+        "mean_price": 53.81904761904762,
+        "count": 42,
+        "category": 2
+    },
+    "ambedkar nagar": {
+        "mean_price": 185.19354838709677,
+        "count": 31,
+        "category": 2
+    },
+    "kudlu main road": {
+        "mean_price": 54.888888888888886,
+        "count": 9,
+        "category": 2
+    },
+    "talaghattapura": {
+        "mean_price": 106.19475,
+        "count": 40,
+        "category": 2
+    },
+    "balagere": {
+        "mean_price": 60.88988888888889,
+        "count": 45,
+        "category": 2
+    },
+    "jigani": {
+        "mean_price": 71.0921568627451,
+        "count": 51,
+        "category": 2
+    },
+    "gollarapalya hosahalli": {
+        "mean_price": 51.46153846153846,
+        "count": 13,
+        "category": 2
+    },
+    "old madras road": {
+        "mean_price": 115.83971428571428,
+        "count": 70,
+        "category": 2
+    },
+    "kaggadasapura": {
+        "mean_price": 61.284375,
+        "count": 64,
+        "category": 2
+    },
+    "9th phase jp nagar": {
+        "mean_price": 89.58372093023256,
+        "count": 43,
+        "category": 2
+    },
+    "jakkur": {
+        "mean_price": 132.20492647058822,
+        "count": 68,
+        "category": 2
+    },
+    "tc palaya": {
+        "mean_price": 79.33266666666667,
+        "count": 60,
+        "category": 2
+    },
+    "giri nagar": {
+        "mean_price": 273.14285714285717,
+        "count": 14,
+        "category": 2
+    },
+    "singasandra": {
+        "mean_price": 71.5,
+        "count": 27,
+        "category": 2
+    },
+    "aecs layout": {
+        "mean_price": 61.965,
+        "count": 12,
+        "category": 2
+    },
+    "mallasandra": {
+        "mean_price": 71.049375,
+        "count": 16,
+        "category": 2
+    },
+    "begur": {
+        "mean_price": 68.63125,
+        "count": 16,
+        "category": 2
+    },
+    "jp nagar": {
+        "mean_price": 109.45022727272728,
+        "count": 66,
+        "category": 2
+    },
+    "malleshpalya": {
+        "mean_price": 80.05058823529413,
+        "count": 17,
+        "category": 2
+    },
+    "munnekollal": {
+        "mean_price": 120.62208333333335,
+        "count": 24,
+        "category": 2
+    },
+    "akshaya vana": {
+        "mean_price": 94.25,
+        "count": 8,
+        "category": 2
+    },
+    "kaggalipura": {
+        "mean_price": 70.92105263157895,
+        "count": 19,
+        "category": 2
+    },
+    "6th phase jp nagar": {
+        "mean_price": 105.38695652173914,
+        "count": 23,
+        "category": 2
+    },
+    "ulsoor": {
+        "mean_price": 237.23809523809524,
+        "count": 21,
+        "category": 2
+    },
+    "thigalarapalya": {
+        "mean_price": 154.47629032258067,
+        "count": 62,
+        "category": 2
+    },
+    "somasundara palya": {
+        "mean_price": 75.25357142857142,
+        "count": 28,
+        "category": 2
+    },
+    "basaveshwara nagar": {
+        "mean_price": 183.61904761904762,
+        "count": 21,
+        "category": 2
+    },
+    "bommasandra": {
+        "mean_price": 50.35054054054054,
+        "count": 37,
+        "category": 2
+    },
+    "ardendale": {
+        "mean_price": 131.05208333333334,
+        "count": 24,
+        "category": 2
+    },
+    "harlur": {
+        "mean_price": 109.87544303797468,
+        "count": 79,
+        "category": 2
+    },
+    "kodihalli": {
+        "mean_price": 367.73333333333335,
+        "count": 15,
+        "category": 2
+    },
+    "narayanapura": {
+        "mean_price": 91.57090909090908,
+        "count": 11,
+        "category": 2
+    },
+    "bannerghatta road": {
+        "mean_price": 98.01993421052632,
+        "count": 152,
+        "category": 2
+    },
+    "hennur": {
+        "mean_price": 67.78067307692308,
+        "count": 52,
+        "category": 2
+    },
+    "5th phase jp nagar": {
+        "mean_price": 86.11282051282052,
+        "count": 39,
+        "category": 2
+    },
+    "kodigehaali": {
+        "mean_price": 80.6923076923077,
+        "count": 13,
+        "category": 2
+    },
+    "billekahalli": {
+        "mean_price": 95.42277777777778,
+        "count": 18,
+        "category": 2
+    },
+    "jalahalli": {
+        "mean_price": 94.15278846153845,
+        "count": 52,
+        "category": 2
+    },
+    "mahadevpura": {
+        "mean_price": 75.9158064516129,
+        "count": 31,
+        "category": 2
+    },
+    "anekal": {
+        "mean_price": 37.94444444444444,
+        "count": 36,
+        "category": 2
+    },
+    "sompura": {
+        "mean_price": 46.583333333333336,
+        "count": 12,
+        "category": 2
+    },
+    "dodda nekkundi": {
+        "mean_price": 106.58413793103449,
+        "count": 29,
+        "category": 2
+    },
+    "hosur road": {
+        "mean_price": 95.20630434782608,
+        "count": 46,
+        "category": 2
+    },
+    "battarahalli": {
+        "mean_price": 74.81875000000001,
+        "count": 24,
+        "category": 2
+    },
+    "kamakshipalya": {
+        "mean_price": 87.44444444444444,
+        "count": 9,
+        "category": 2
+    },
+    "sultan palaya": {
+        "mean_price": 102.57142857142857,
+        "count": 14,
+        "category": 2
+    },
+    "ambalipura": {
+        "mean_price": 104.32703703703703,
+        "count": 27,
+        "category": 2
+    },
+    "hoodi": {
+        "mean_price": 91.65022727272728,
+        "count": 88,
+        "category": 2
+    },
+    "brookefield": {
+        "mean_price": 118.48936170212765,
+        "count": 47,
+        "category": 2
+    },
+    "yelenahalli": {
+        "mean_price": 50.79923076923077,
+        "count": 13,
+        "category": 2
+    },
+    "richmond town": {
+        "mean_price": 279.55555555555554,
+        "count": 9,
+        "category": 2
+    },
+    "vittasandra": {
+        "mean_price": 71.02093023255814,
+        "count": 43,
+        "category": 2
+    },
+    "hoysalanagar": {
+        "mean_price": 52.25,
+        "count": 8,
+        "category": 2
+    },
+    "2nd stage nagarbhavi": {
+        "mean_price": 220.83333333333334,
+        "count": 24,
+        "category": 2
+    },
+    "vidyaranyapura": {
+        "mean_price": 93.62209302325581,
+        "count": 43,
+        "category": 2
+    },
+    "amruthahalli": {
+        "mean_price": 90.22916666666667,
+        "count": 24,
+        "category": 2
+    },
+    "kodigehalli": {
+        "mean_price": 102.33272727272728,
+        "count": 11,
+        "category": 2
+    },
+    "subramanyapura": {
+        "mean_price": 65.96558139534883,
+        "count": 43,
+        "category": 2
+    },
+    "basavangudi": {
+        "mean_price": 184.359375,
+        "count": 32,
+        "category": 2
+    },
+    "kenchenahalli": {
+        "mean_price": 63.25,
+        "count": 16,
+        "category": 2
+    },
+    "banjara layout": {
+        "mean_price": 84.11818181818181,
+        "count": 11,
+        "category": 2
+    },
+    "kereguddadahalli": {
+        "mean_price": 35.81875,
+        "count": 16,
+        "category": 2
+    },
+    "kambipura": {
+        "mean_price": 44.33375,
+        "count": 24,
+        "category": 2
+    },
+    "medahalli": {
+        "mean_price": 76.38888888888889,
+        "count": 9,
+        "category": 2
+    },
+    "banashankari stage iii": {
+        "mean_price": 121.02148148148147,
+        "count": 27,
+        "category": 2
+    },
+    "sector 7 hsr layout": {
+        "mean_price": 167.57615384615386,
+        "count": 13,
+        "category": 2
+    },
+    "ittamadu": {
+        "mean_price": 87.55555555555556,
+        "count": 9,
+        "category": 2
+    },
+    "rajiv nagar": {
+        "mean_price": 117.44769230769231,
+        "count": 13,
+        "category": 2
+    },
+    "arekere": {
+        "mean_price": 106.32352941176471,
+        "count": 17,
+        "category": 2
+    },
+    "mico layout": {
+        "mean_price": 86.02083333333333,
+        "count": 12,
+        "category": 2
+    },
+    "2nd phase jp nagar": {
+        "mean_price": 161.94444444444446,
+        "count": 9,
+        "category": 2
+    },
+    "kammanahalli": {
+        "mean_price": 119.52941176470588,
+        "count": 17,
+        "category": 2
+    },
+    "banashankari": {
+        "mean_price": 104.81378378378379,
+        "count": 74,
+        "category": 2
+    },
+    "chikkabanavar": {
+        "mean_price": 69.6923076923077,
+        "count": 13,
+        "category": 2
+    },
+    "hrbr layout": {
+        "mean_price": 144.81578947368422,
+        "count": 19,
+        "category": 2
+    },
+    "nehru nagar": {
+        "mean_price": 86.37272727272727,
+        "count": 11,
+        "category": 2
+    },
+    "kanakapura": {
+        "mean_price": 60.142738095238094,
+        "count": 42,
+        "category": 2
+    },
+    "konanakunte": {
+        "mean_price": 189.23076923076923,
+        "count": 13,
+        "category": 2
+    },
+    "margondanahalli": {
+        "mean_price": 65.85615384615384,
+        "count": 26,
+        "category": 2
+    },
+    "r.t. nagar": {
+        "mean_price": 138.30555555555554,
+        "count": 36,
+        "category": 2
+    },
+    "tumkur road": {
+        "mean_price": 75.01060606060605,
+        "count": 33,
+        "category": 2
+    },
+    "vasanthapura": {
+        "mean_price": 41.92916666666667,
+        "count": 12,
+        "category": 2
+    },
+    "gm palaya": {
+        "mean_price": 56.82916666666667,
+        "count": 12,
+        "category": 2
+    },
+    "jalahalli east": {
+        "mean_price": 56.46857142857142,
+        "count": 14,
+        "category": 2
+    },
+    "hosakerehalli": {
+        "mean_price": 179.60333333333335,
+        "count": 36,
+        "category": 2
+    },
+    "huskur": {
+        "mean_price": 39.8775,
+        "count": 8,
+        "category": 2
+    },
+    "indira nagar": {
+        "mean_price": 286.3181818181818,
+        "count": 44,
+        "category": 3
+    },
+    "kodichikkanahalli": {
+        "mean_price": 69.64814814814815,
+        "count": 27,
+        "category": 2
+    },
+    "varthur road": {
+        "mean_price": 54.38533333333333,
+        "count": 15,
+        "category": 2
+    },
+    "anjanapura": {
+        "mean_price": 64.024375,
+        "count": 16,
+        "category": 2
+    },
+    "abbigere": {
+        "mean_price": 53.30583333333333,
+        "count": 24,
+        "category": 2
+    },
+    "tindlu": {
+        "mean_price": 100.61818181818181,
+        "count": 11,
+        "category": 2
+    },
+    "b narayanapura": {
+        "mean_price": 65.03444444444443,
+        "count": 9,
+        "category": 2
+    },
+    "gubbalala": {
+        "mean_price": 103.11769230769231,
+        "count": 26,
+        "category": 2
+    },
+    "dairy circle": {
+        "mean_price": 333.6,
+        "count": 10,
+        "category": 2
+    },
+    "parappana agrahara": {
+        "mean_price": 48.5625,
+        "count": 16,
+        "category": 2
+    },
+    "cunningham road": {
+        "mean_price": 824.3846153846154,
+        "count": 13,
+        "category": 2
+    },
+    "kudlu": {
+        "mean_price": 57.77379310344828,
+        "count": 29,
+        "category": 2
+    },
+    "banashankari stage vi": {
+        "mean_price": 113.49875,
+        "count": 16,
+        "category": 2
+    },
+    "cox town": {
+        "mean_price": 126.66666666666667,
+        "count": 12,
+        "category": 2
+    },
+    "kathriguppe": {
+        "mean_price": 77.99227272727272,
+        "count": 22,
+        "category": 2
+    },
+    "hbr layout": {
+        "mean_price": 131.3,
+        "count": 20,
+        "category": 2
+    },
+    "yelahanka new town": {
+        "mean_price": 85.5125,
+        "count": 40,
+        "category": 2
+    },
+    "sahakara nagar": {
+        "mean_price": 104.36282051282052,
+        "count": 39,
+        "category": 2
+    },
+    "rachenahalli": {
+        "mean_price": 70.77706896551723,
+        "count": 58,
+        "category": 2
+    },
+    "sadashiva nagar": {
+        "mean_price": 1011.1,
+        "count": 10,
+        "category": 2
+    },
+    "yelachenahalli": {
+        "mean_price": 89.825,
+        "count": 20,
+        "category": 2
+    },
+    "kodbisanhalli": {
+        "mean_price": 149.75,
+        "count": 8,
+        "category": 2
+    },
+    "sathya sai layout": {
+        "mean_price": 609.25,
+        "count": 8,
+        "category": 2
+    },
+    "vishwanatha nagenahalli": {
+        "mean_price": 102.11111111111111,
+        "count": 9,
+        "category": 2
+    },
+    "green glen layout": {
+        "mean_price": 118.04615384615386,
+        "count": 39,
+        "category": 2
+    },
+    "thubarahalli": {
+        "mean_price": 90.685,
+        "count": 22,
+        "category": 2
+    },
+    "naganathapura": {
+        "mean_price": 67.685,
+        "count": 10,
+        "category": 2
+    },
+    "horamavu banaswadi": {
+        "mean_price": 65.48214285714286,
+        "count": 28,
+        "category": 2
+    },
+    "1st phase jp nagar": {
+        "mean_price": 175.1875,
+        "count": 24,
+        "category": 2
+    },
+    "kaverappa layout": {
+        "mean_price": 89.88888888888889,
+        "count": 9,
+        "category": 2
+    },
+    "ngr layout": {
+        "mean_price": 46.75785714285714,
+        "count": 14,
+        "category": 2
+    },
+    "seegehalli": {
+        "mean_price": 136.7416,
+        "count": 25,
+        "category": 2
+    },
+    "beml layout": {
+        "mean_price": 120.38461538461539,
+        "count": 13,
+        "category": 2
+    },
+    "nri layout": {
+        "mean_price": 86.0657142857143,
+        "count": 14,
+        "category": 2
+    },
+    "sidedahalli": {
+        "mean_price": 53.2875,
+        "count": 8,
+        "category": 2
+    },
+    "itpl": {
+        "mean_price": 85.88,
+        "count": 12,
+        "category": 2
+    },
+    "kattigenahalli": {
+        "mean_price": 107.125,
+        "count": 8,
+        "category": 2
+    },
+    "babusapalaya": {
+        "mean_price": 53.1004,
+        "count": 25,
+        "category": 2
+    },
+    "nagappa reddy layout": {
+        "mean_price": 60.32000000000001,
+        "count": 10,
+        "category": 2
+    },
+    "btm 1st stage": {
+        "mean_price": 164.1,
+        "count": 10,
+        "category": 2
+    },
+    "iblur village": {
+        "mean_price": 220.4,
+        "count": 25,
+        "category": 2
+    },
+    "ananth nagar": {
+        "mean_price": 33.713,
+        "count": 30,
+        "category": 2
+    },
+    "basapura": {
+        "mean_price": 56.7,
+        "count": 10,
+        "category": 2
+    },
+    "channasandra": {
+        "mean_price": 62.578421052631576,
+        "count": 38,
+        "category": 2
+    },
+    "sector 1 hsr layout": {
+        "mean_price": 287.0,
+        "count": 10,
+        "category": 2
+    },
+    "gopalkrishna nagar": {
+        "mean_price": 87.25,
+        "count": 8,
+        "category": 2
+    },
+    "choodasandra": {
+        "mean_price": 94.39307692307692,
+        "count": 26,
+        "category": 2
+    },
+    "kaikondrahalli": {
+        "mean_price": 78.10588235294118,
+        "count": 17,
+        "category": 2
+    },
+    "neeladri nagar": {
+        "mean_price": 87.26923076923077,
+        "count": 13,
+        "category": 2
+    },
+    "frazer town": {
+        "mean_price": 248.6414285714286,
+        "count": 35,
+        "category": 2
+    },
+    "cooke town": {
+        "mean_price": 239.0625,
+        "count": 16,
+        "category": 2
+    },
+    "doddakallasandra": {
+        "mean_price": 56.22071428571429,
+        "count": 14,
+        "category": 2
+    },
+    "chamrajpet": {
+        "mean_price": 216.994,
+        "count": 15,
+        "category": 2
+    },
+    "vasanth nagar": {
+        "mean_price": 641.125,
+        "count": 8,
+        "category": 2
+    },
+    "rayasandra": {
+        "mean_price": 62.591818181818184,
+        "count": 22,
+        "category": 2
+    },
+    "kalkere": {
+        "mean_price": 54.4,
+        "count": 10,
+        "category": 2
+    },
+    "5th block hbr layout": {
+        "mean_price": 202.75,
+        "count": 12,
+        "category": 2
+    },
+    "pai layout": {
+        "mean_price": 67.26315789473684,
+        "count": 19,
+        "category": 2
+    },
+    "roopena agrahara": {
+        "mean_price": 62.613749999999996,
+        "count": 8,
+        "category": 2
+    },
+    "banashankari stage v": {
+        "mean_price": 65.14583333333333,
+        "count": 12,
+        "category": 2
+    },
+    "gollahalli": {
+        "mean_price": 51.900000000000006,
+        "count": 9,
+        "category": 2
+    },
+    "sonnenahalli": {
+        "mean_price": 54.31340909090909,
+        "count": 22,
+        "category": 2
+    },
+    "seetharampalya": {
+        "mean_price": 73.75,
+        "count": 8,
+        "category": 2
+    },
+    "benson town": {
+        "mean_price": 346.7433333333333,
+        "count": 15,
+        "category": 2
+    },
+    "2nd phase judicial layout": {
+        "mean_price": 46.18181818181818,
+        "count": 11,
+        "category": 2
+    },
+    "1st block hrbr layout": {
+        "mean_price": 209.625,
+        "count": 8,
+        "category": 2
+    },
+    "sarjapur road,": {
+        "mean_price": 133.5,
+        "count": 8,
+        "category": 2
+    },
+    "byadarahalli": {
+        "mean_price": 384.5,
+        "count": 8,
+        "category": 2
+    },
+    "poorna pragna layout": {
+        "mean_price": 80.787,
+        "count": 20,
+        "category": 2
+    },
+    "judicial layout": {
+        "mean_price": 206.45749999999998,
+        "count": 16,
+        "category": 2
+    },
+    "outer ring road east": {
+        "mean_price": 187.0,
+        "count": 8,
+        "category": 2
+    },
+    "banashankari stage ii": {
+        "mean_price": 226.4075,
+        "count": 16,
+        "category": 2
+    },
+    "karuna nagar": {
+        "mean_price": 139.33333333333334,
+        "count": 12,
+        "category": 2
+    },
+    "bannerghatta": {
+        "mean_price": 114.39411764705882,
+        "count": 17,
+        "category": 2
+    },
+    "banagiri nagar": {
+        "mean_price": 146.80555555555554,
+        "count": 9,
+        "category": 2
+    },
+    "thirumenahalli": {
+        "mean_price": 74.52625,
+        "count": 8,
+        "category": 2
+    },
+    "marsur": {
+        "mean_price": 64.9090909090909,
+        "count": 11,
+        "category": 2
+    },
+    "akshayanagara east": {
+        "mean_price": 94.4525,
+        "count": 8,
+        "category": 2
+    },
+    "bommenahalli": {
+        "mean_price": 312.6923076923077,
+        "count": 13,
+        "category": 2
+    },
+    "laggere": {
+        "mean_price": 101.91666666666667,
+        "count": 12,
+        "category": 2
+    },
+    "prithvi layout": {
+        "mean_price": 144.96153846153845,
+        "count": 13,
+        "category": 2
+    },
+    "banaswadi": {
+        "mean_price": 134.73529411764707,
+        "count": 17,
+        "category": 2
+    },
+    "sector 2 hsr layout": {
+        "mean_price": 86.025625,
+        "count": 16,
+        "category": 2
+    },
+    "shivaji nagar": {
+        "mean_price": 125.42307692307692,
+        "count": 13,
+        "category": 2
+    },
+    "badavala nagar": {
+        "mean_price": 95.22083333333335,
+        "count": 12,
+        "category": 2
+    },
+    "4th block koramangala": {
+        "mean_price": 348.55555555555554,
+        "count": 9,
+        "category": 2
+    },
+    "vignana nagar": {
+        "mean_price": 71.61111111111111,
+        "count": 9,
+        "category": 2
+    },
+    "nallurhalli": {
+        "mean_price": 69.0,
+        "count": 8,
+        "category": 2
+    },
+    "lingarajapuram": {
+        "mean_price": 72.76222222222222,
+        "count": 9,
+        "category": 2
+    },
+    "nelamangala": {
+        "mean_price": 65.6875,
+        "count": 8,
+        "category": 2
+    },
+    "nagavarapalya": {
+        "mean_price": 78.38933333333333,
+        "count": 15,
+        "category": 2
+    },
+    "hongasandra": {
+        "mean_price": 72.375,
+        "count": 8,
+        "category": 2
+    },
+    "btm layout": {
+        "mean_price": 99.51823529411764,
+        "count": 17,
+        "category": 2
+    },
+    "chennammana kere": {
+        "mean_price": 73.57444444444444,
+        "count": 9,
+        "category": 2
+    },
+    "kanaka nagar": {
+        "mean_price": 109.25,
+        "count": 8,
+        "category": 2
+    },
+    "btm 2nd stage": {
+        "mean_price": 156.0344827586207,
+        "count": 29,
+        "category": 2
+    },
+    "jakkur plantation": {
+        "mean_price": 165.22222222222223,
+        "count": 9,
+        "category": 2
+    },
+    "1st block koramangala": {
+        "mean_price": 283.45,
+        "count": 10,
+        "category": 2
+    },
+    "hoskote": {
+        "mean_price": 61.92595238095238,
+        "count": 21,
+        "category": 2
+    },
+    "yemlur": {
+        "mean_price": 1093.388888888889,
+        "count": 9,
+        "category": 2
+    },
+    "doddaballapur": {
+        "mean_price": 165.79166666666666,
+        "count": 12,
+        "category": 2
+    },
+    "gunjur palya": {
+        "mean_price": 39.806,
+        "count": 10,
+        "category": 2
+    },
+    "sarakki nagar": {
+        "mean_price": 241.87357142857144,
+        "count": 14,
+        "category": 2
+    },
+    "dollars colony": {
+        "mean_price": 744.375,
+        "count": 8,
+        "category": 2
+    },
+    "thyagaraja nagar": {
+        "mean_price": 139.02272727272728,
+        "count": 11,
+        "category": 2
+    },
+    "bharathi nagar": {
+        "mean_price": 68.31166666666667,
+        "count": 12,
+        "category": 2
+    },
+    "cambridge layout": {
+        "mean_price": 251.875,
+        "count": 8,
+        "category": 2
+    },
+    "mathikere": {
+        "mean_price": 125.55555555555556,
+        "count": 9,
+        "category": 2
+    },
+    "dodsworth layout": {
+        "mean_price": 538.2,
+        "count": 10,
+        "category": 2
+    },
+    "hal 2nd stage": {
+        "mean_price": 339.27272727272725,
+        "count": 11,
+        "category": 2
+    },
+    "volagerekallahalli": {
+        "mean_price": 39.50666666666667,
+        "count": 9,
+        "category": 2
+    },
+    "shikaripalya": {
+        "mean_price": 53.71125,
+        "count": 8,
+        "category": 2
+    },
+    "kadubeesanahalli": {
+        "mean_price": 125.15384615384616,
+        "count": 13,
+        "category": 2
+    },
+    "nagadevanahalli": {
+        "mean_price": 100.5,
+        "count": 10,
+        "category": 2
+    },
+    "mahalakshmi puram": {
+        "mean_price": 211.625,
+        "count": 8,
+        "category": 2
+    },
+    "reliaable tranquil layout": {
+        "mean_price": 68.375,
+        "count": 8,
+        "category": 2
+    },
+    "shanti nagar": {
+        "mean_price": 181.5,
+        "count": 8,
+        "category": 2
+    }
+}

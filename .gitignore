@@ -1,0 +1,33 @@
+# Ignore model files
+models/*.pkl
+
+# Ignore datasets
+data/
+*.csv
+
+# Ignore Jupyter notebooks
+Notebook/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+models/**/*.pkl
+*.zip
+data/
+Notebook/
+
